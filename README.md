@@ -6,3 +6,4 @@ Project created to course Design Patterns in Python in Udemy
 
 - Python3.10
 - Poetry
+
