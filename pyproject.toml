@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dessign-patterns-python"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Cano <dcdanielca@gmail.com>"]
+readme = "README.md"
+packages = [{include = "dessign_patterns_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
